@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+ div a {
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+ }
+ .fb {
+    margin-bottom: 35px;
+ }
+ .gg {
+    margin-bottom: 35px;
+ }
+ .ap {
+    margin-bottom: 35px;
+ }
+ .tw {
+    margin-bottom: 35px;
+ }
+ .em {
+    margin-bottom: 35px;
+ }
+ .ph {
+    margin-bottom: 35px;
+ }
